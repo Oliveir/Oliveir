@@ -8,5 +8,4 @@
     <img src="https://skillicons.dev/icons?i=dotnet,cs,rider,visualstudio,vscode,powershell,kali,mysql,linux,github,git,postman,jquery,js,bootstrap,html,css,linkedin,discord"/>
   </a>
   <br />
-
 </div>
