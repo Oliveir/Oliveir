@@ -1,7 +1,7 @@
 ![3D](profile-3d-contrib/profile-night-view.svg)
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oliveir&theme=aura" width="300" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oliveir&theme=aura" width="640" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oliveir&theme=aura" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oliveir&theme=aura" width="48%" />
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode,git,github,postman,powershell,js,jquery,bootstrap,html,css,linkedin,discord)](https://skillicons.dev)
